@@ -1,0 +1,44 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Inconsolata', monospace;
+    font-size: 5vh;
+    background-color: #343434;
+    color: rgb(242, 245, 211);
+}
+#main{
+    border: 10px;
+    background-color: #474747;
+    border-radius: 15px;
+}
+#input{
+    padding: 10vh;
+    border-radius: 10px;
+    padding-top: 0px;
+padding-bottom: 0px;
+
+}
+h1{
+    margin: 3vh;
+}
+input{
+    height: 4vh;
+    font-size: 2vh;
+    color: rgb(242, 245, 211);
+    background-color: darkslategray;
+    padding: 1vh;
+border-radius: 10px;
+
+
+}
+#addTodo{
+    height:6vh ;
+    width: 8vh;
+    font-size: 2vh;
+    border-radius: 10px;
+    background-color: darkslategray;
+    color:rgb(242, 245, 211) ;
+
+}
